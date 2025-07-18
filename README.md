@@ -14,7 +14,6 @@ This project was developed to fetch random user profiles using the **Random User
 
 <img width="1901" height="905" alt="hw11-2" src="https://github.com/user-attachments/assets/76f873dd-a07e-48cd-a892-6975a3f813cf" />
 
-
 ## Features
 
 - Fetches random user data from the **Random User API**.
@@ -25,9 +24,7 @@ This project was developed to fetch random user profiles using the **Random User
 - **Responsive design** ensures a proper look on mobile devices.
 - The **“Load Users”** button fetches new users on each click and applies a shake animation.
 
----
-
-##  Kullanılan Teknolojiler
+##  Technologies 
 - HTML5
 - CSS3
 - JavaScript (jQuery)
@@ -35,9 +32,7 @@ This project was developed to fetch random user profiles using the **Random User
 - [Slick Slider](https://kenwheeler.github.io/slick/)    
 - [Random User API](https://randomuser.me/)   
 
----
-
-## Proje Dosya Yapısı
+## Project File Structure
 ```
 project-root/
 ├── index.html
