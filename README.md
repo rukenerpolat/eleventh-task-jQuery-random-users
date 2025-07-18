@@ -4,14 +4,16 @@
 
 <div align="center">
 
-🌐 [View Live Page]()  
+🌐 [View Live Page](https://eleventh-task-jquery-random-users.netlify.app/)  
 
 </div>
 
-
 This project was developed to fetch random user profiles using the **Random User API**, display these profiles as stylish cards, add animations to the cards, show detailed profile information in a **Fancybox modal**, and present additional user images in a scrollable gallery with **Slick Slider**.
 
----
+<img width="1920" height="1164" alt="hw11" src="https://github.com/user-attachments/assets/0dc2b259-28df-47c5-822c-e4ca7d3c6b7d" />
+
+<img width="1901" height="905" alt="hw11-2" src="https://github.com/user-attachments/assets/76f873dd-a07e-48cd-a892-6975a3f813cf" />
+
 
 ## Features
 
